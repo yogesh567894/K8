@@ -1,4 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+
 
 # 
 
@@ -150,9 +150,7 @@ python src/monitor.py \
 
 Distributed under MIT License. See `LICENSE` for more information.
 
-## 📧 Contact
 
-Yogesh Kumar - [@yogesh_devops](https://twitter.com/yogesh_devops) - yogesh.k8s@protonmail.com
 ```
 
 This README includes:
